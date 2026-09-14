@@ -21,7 +21,7 @@ def reset_robot(default_qpos: np.ndarray) -> np.ndarray:
     Returns:
     - reset_qpos: np.ndarray. The joint positions to reset the robot to. Dimensionality: 1D array, Shape: (num_joints,).
     """
-    raise NotImplementedError()
+    
     
 
 
